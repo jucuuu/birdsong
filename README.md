@@ -1,1 +1,5 @@
 # birdsong
+
+## used libraries:
+
+- ArduinoJSON
