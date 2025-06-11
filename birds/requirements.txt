@@ -1,0 +1,6 @@
+birdnetlib
+Flask
+psycopg2-binary
+python-dotenv
+librosa
+tensorflow
